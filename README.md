@@ -1,2 +1,7 @@
-# forthelife_athleteiside
-Content for https://athleteinside.forthe.life
+# forthelife-content
+
+## Structure
+
+* subdomains
+  * Content for https://athleteinside.forthe.life
+* Blogs
